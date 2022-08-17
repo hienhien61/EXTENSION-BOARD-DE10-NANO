@@ -1,4 +1,8 @@
 Record=TopLevelDocument|FileName=7seg.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=7seg.SchDoc|FileName=button.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=7seg.SchDoc|FileName=buzzer.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=7seg.SchDoc|FileName=gpio.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=7seg.SchDoc|FileName=lcd.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=7seg.SchDoc|FileName=led.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=7seg.SchDoc|FileName=matrix.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=7seg.SchDoc|FileName=switch.SchDoc|SheetNumber=2
