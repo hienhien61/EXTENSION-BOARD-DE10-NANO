@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetF2_2 Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-3
+Change Component Footprint: Designator=P3 Old Footprint=JP2X2 New Footprint=HDR/Header/4/DL
+Change component parameters: Designator = "P3" ("P3"); Footprint = "JP2X2"; UniqueID = "\JRVFIUHC" ("\JRVFIUHC")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=NetF2_2 Pin=P3-3
